@@ -7,10 +7,11 @@ The software described above is a simple web-based to-do list application that d
 * Basic Functionality:
 Task Addition: Users can add new tasks to the to-do list by typing into an input field and clicking an "Add Task" button.
 Task Display: Added tasks are displayed in a list format on the webpage.
-Task Completion: Users can mark tasks as completed by clicking on them. Completed tasks are visually distinguished (e.g., line-through styling).
+
+* Task Completion: Users can mark tasks as completed by clicking on them. Completed tasks are visually distinguished (e.g., line-through styling).
 
 * HTML Structure:
-The application uses basic HTML elements such as a heading (<h2>), input field (<input>), button (<button>), and an unordered list (<ul>) to display tasks.
+The application uses basic HTML elements such as a heading (h2), input field (input), button (button), and an unordered list (ul) to display tasks.
 
 * CSS Styling:
 The styling enhances the visual appeal and user experience. It includes styles for the body, heading, input field, button, and tasks. Features like hover effects on buttons and tasks improve interactivity.
