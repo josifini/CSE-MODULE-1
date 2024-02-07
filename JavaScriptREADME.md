@@ -1,6 +1,6 @@
 # Overview
 
-For this project, I would like to Create a web-based to-do list application that allows users to add, remove, and mark tasks as completed.
+For this project, I create a web-based to-do list application that allows users to add, remove, and mark tasks as completed.
 
 The software described above is a simple web-based to-do list application that demonstrates various aspects of the JavaScript language. Here's an overview of its features and functionalities:
 
